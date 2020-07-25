@@ -20,7 +20,7 @@ function NavBar() {
              Quotes
             </a>
           </Menu.Item>
-          <Menu.Item key="app"  icon={<PictureOutlined />}>
+          <Menu.Item key="pictures"  icon={<PictureOutlined />}>
           <a target="_self" href="/pictures">
              Pictures
             </a>
