@@ -1,15 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import NavBar from './nav.js';
 
 function App() {
+  
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
+      <header >
+      <NavBar></NavBar>
+      </header>
+      <body className="App-body">
+      <p>
           Happy Birthday Nana! 
         </p>
-      </header>
+      </body>
     </div>
   );
 }
