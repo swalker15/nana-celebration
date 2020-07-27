@@ -1,0 +1,19 @@
+.card {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-text
+{ 
+    font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal;
+    font-weight: 700;
+    line-height: 26.4px; 
+    color: #08182f;
+
+}
